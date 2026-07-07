@@ -1,0 +1,123 @@
+﻿onset	duration	trial_type	value	sample	frequency	opacity	color
+30.0	120.0	rest_eyes_open	3	60000			
+160.0	120.0	rest_eyes_closed	2	320000			
+423.0	1.0	cue	1	846000			
+424.0	5.0	stim_12Hz_trans50_white	11	848000	12	0.5	white
+438.0	1.0	cue	1	876000			
+439.0	5.0	stim_15Hz_trans0_white	13	878000	15	0	white
+453.0	1.0	cue	1	906000			
+454.0	5.0	stim_15Hz_trans0_white	13	908000	15	0	white
+468.0	1.0	cue	1	936000			
+469.0	5.0	stim_10Hz_trans50_white	7	938000	10	0.5	white
+483.0	1.0	cue	1	966000			
+484.0	5.0	stim_10Hz_trans50_green	6	968000	10	0.5	green
+498.0	1.0	cue	1	996000			
+499.0	5.0	stim_12Hz_trans0_green	8	998000	12	0	green
+513.0	1.0	cue	1	1026000			
+514.0	5.0	stim_15Hz_trans50_green	14	1028000	15	0.5	green
+528.0	1.0	cue	1	1056000			
+529.0	5.0	stim_10Hz_trans0_green	4	1058000	10	0	green
+543.0	1.0	cue	1	1086000			
+544.0	5.0	stim_12Hz_trans50_green	10	1088000	12	0.5	green
+558.0	1.0	cue	1	1116000			
+559.0	5.0	stim_12Hz_trans0_white	9	1118000	12	0	white
+633.0	1.0	cue	1	1266000			
+634.0	5.0	stim_10Hz_trans0_green	4	1268000	10	0	green
+648.0	1.0	cue	1	1296000			
+649.0	5.0	stim_15Hz_trans50_white	15	1298000	15	0.5	white
+663.0	1.0	cue	1	1326000			
+664.0	5.0	stim_15Hz_trans0_green	12	1328000	15	0	green
+678.0	1.0	cue	1	1356000			
+679.0	5.0	stim_10Hz_trans50_white	7	1358000	10	0.5	white
+693.0	1.0	cue	1	1386000			
+694.0	5.0	stim_10Hz_trans50_green	6	1388000	10	0.5	green
+708.0	1.0	cue	1	1416000			
+709.0	5.0	stim_10Hz_trans0_green	4	1418000	10	0	green
+723.0	1.0	cue	1	1446000			
+724.0	5.0	stim_12Hz_trans0_green	8	1448000	12	0	green
+738.0	1.0	cue	1	1476000			
+739.0	5.0	stim_15Hz_trans50_white	15	1478000	15	0.5	white
+753.0	1.0	cue	1	1506000			
+754.0	5.0	stim_10Hz_trans50_green	6	1508000	10	0.5	green
+768.0	1.0	cue	1	1536000			
+769.0	5.0	stim_12Hz_trans50_green	10	1538000	12	0.5	green
+843.0	1.0	cue	1	1686000			
+844.0	5.0	stim_12Hz_trans50_white	11	1688000	12	0.5	white
+858.0	1.0	cue	1	1716000			
+859.0	5.0	stim_12Hz_trans0_white	9	1718000	12	0	white
+873.0	1.0	cue	1	1746000			
+874.0	5.0	stim_10Hz_trans50_green	6	1748000	10	0.5	green
+888.0	1.0	cue	1	1776000			
+889.0	5.0	stim_10Hz_trans50_white	7	1778000	10	0.5	white
+903.0	1.0	cue	1	1806000			
+904.0	5.0	stim_10Hz_trans0_white	5	1808000	10	0	white
+918.0	1.0	cue	1	1836000			
+919.0	5.0	stim_10Hz_trans0_white	5	1838000	10	0	white
+933.0	1.0	cue	1	1866000			
+934.0	5.0	stim_15Hz_trans50_green	14	1868000	15	0.5	green
+948.0	1.0	cue	1	1896000			
+949.0	5.0	stim_12Hz_trans50_white	11	1898000	12	0.5	white
+963.0	1.0	cue	1	1926000			
+964.0	5.0	stim_15Hz_trans0_white	13	1928000	15	0	white
+978.0	1.0	cue	1	1956000			
+979.0	5.0	stim_12Hz_trans0_green	8	1958000	12	0	green
+1053.0	1.0	cue	1	2106000			
+1054.0	5.0	stim_12Hz_trans0_green	8	2108000	12	0	green
+1068.0	1.0	cue	1	2136000			
+1069.0	5.0	stim_15Hz_trans50_white	15	2138000	15	0.5	white
+1083.0	1.0	cue	1	2166000			
+1084.0	5.0	stim_15Hz_trans50_green	14	2168000	15	0.5	green
+1098.0	1.0	cue	1	2196000			
+1099.0	5.0	stim_15Hz_trans50_white	15	2198000	15	0.5	white
+1113.0	1.0	cue	1	2226000			
+1114.0	5.0	stim_12Hz_trans0_green	8	2228000	12	0	green
+1128.0	1.0	cue	1	2256000			
+1129.0	5.0	stim_10Hz_trans0_white	5	2258000	10	0	white
+1143.0	1.0	cue	1	2286000			
+1144.0	5.0	stim_10Hz_trans0_white	5	2288000	10	0	white
+1158.0	1.0	cue	1	2316000			
+1159.0	5.0	stim_15Hz_trans0_white	13	2318000	15	0	white
+1173.0	1.0	cue	1	2346000			
+1174.0	5.0	stim_10Hz_trans0_green	4	2348000	10	0	green
+1188.0	1.0	cue	1	2376000			
+1189.0	5.0	stim_12Hz_trans0_white	9	2378000	12	0	white
+1263.0	1.0	cue	1	2526000			
+1264.0	5.0	stim_15Hz_trans0_green	12	2528000	15	0	green
+1278.0	1.0	cue	1	2556000			
+1279.0	5.0	stim_10Hz_trans0_white	5	2558000	10	0	white
+1293.0	1.0	cue	1	2586000			
+1294.0	5.0	stim_12Hz_trans50_green	10	2588000	12	0.5	green
+1308.0	1.0	cue	1	2616000			
+1309.0	5.0	stim_15Hz_trans0_green	12	2618000	15	0	green
+1323.0	1.0	cue	1	2646000			
+1324.0	5.0	stim_12Hz_trans50_white	11	2648000	12	0.5	white
+1338.0	1.0	cue	1	2676000			
+1339.0	5.0	stim_10Hz_trans0_green	4	2678000	10	0	green
+1353.0	1.0	cue	1	2706000			
+1354.0	5.0	stim_10Hz_trans50_green	6	2708000	10	0.5	green
+1368.0	1.0	cue	1	2736000			
+1369.0	5.0	stim_15Hz_trans0_green	12	2738000	15	0	green
+1383.0	1.0	cue	1	2766000			
+1384.0	5.0	stim_10Hz_trans50_white	7	2768000	10	0.5	white
+1398.0	1.0	cue	1	2796000			
+1399.0	5.0	stim_12Hz_trans0_white	9	2798000	12	0	white
+1473.0	1.0	cue	1	2946000			
+1474.0	5.0	stim_10Hz_trans50_white	7	2948000	10	0.5	white
+1488.0	1.0	cue	1	2976000			
+1489.0	5.0	stim_15Hz_trans50_green	14	2978000	15	0.5	green
+1503.0	1.0	cue	1	3006000			
+1504.0	5.0	stim_12Hz_trans50_white	11	3008000	12	0.5	white
+1518.0	1.0	cue	1	3036000			
+1519.0	5.0	stim_15Hz_trans50_green	14	3038000	15	0.5	green
+1533.0	1.0	cue	1	3066000			
+1534.0	5.0	stim_12Hz_trans0_white	9	3068000	12	0	white
+1548.0	1.0	cue	1	3096000			
+1549.0	5.0	stim_15Hz_trans0_white	13	3098000	15	0	white
+1563.0	1.0	cue	1	3126000			
+1564.0	5.0	stim_12Hz_trans50_green	10	3128000	12	0.5	green
+1578.0	1.0	cue	1	3156000			
+1579.0	5.0	stim_15Hz_trans50_white	15	3158000	15	0.5	white
+1593.0	1.0	cue	1	3186000			
+1594.0	5.0	stim_15Hz_trans0_green	12	3188000	15	0	green
+1608.0	1.0	cue	1	3216000			
+1609.0	5.0	stim_12Hz_trans50_green	10	3218000	12	0.5	green
