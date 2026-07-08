@@ -19,7 +19,7 @@ The repository provides tools to:
 ```text
 ROOT_DIR/
 ├── data/                              # Metadata and trial sequence specifications
-│   ├── events.tsv                     # Sequence mapping for Video Version 1 (Blocks 1-6)
+│   ├── events1.tsv                     # Sequence mapping for Video Version 1 (Blocks 1-6)
 │   ├── events2.tsv                    # Sequence mapping for Video Version 2 (Blocks 1-6, counterbalanced)
 │   └── events3.tsv                    # Sequence mapping for Video Version 3 (Blocks 1-6, counterbalanced)
 │
