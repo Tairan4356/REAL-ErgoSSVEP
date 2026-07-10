@@ -4,6 +4,8 @@ This repository contains the source code, data exporting pipelines, and technica
 *"REAL-ErgoSSVEP: EEG and ergonomic dataset of steady-state visual evoked potentials under realistic backgrounds"* (
 Submitted to *Scientific Data*).
 
+The full dataset is available on OpenNeuro (doi:10.18112/openneuro.ds008081). It will be published once the draft has been accepted.
+
 The repository provides tools to:
 
 1. Generate the multi-factor stimulus presentation timelines.
